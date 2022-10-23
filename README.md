@@ -1,2 +1,2 @@
 # portfolio
-Project files for data analytics &amp; viz portfolio 
+Kurt's portfolio for data analytics &amp; viz projects 
