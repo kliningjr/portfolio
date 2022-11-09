@@ -1,0 +1,27 @@
+body {background-color: white;}
+h1 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: xx-large; color: midnightblue;}
+h2 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: x-large; color: midnightblue;}
+h3 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: large; color: midnightblue;}
+h4 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: midnightblue;}
+h5 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: midnightblue;}
+h6 {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: midnightblue;}
+p {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: black;}
+code {font-family:'Courier New', Courier, monospace; font-weight: bold; font-size: medium; color: black;}
+ul {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: black;}
+ol {font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium; color: black;}
+table, th, td 
+    {border: 1px solid #5b93c8;
+    border-collapse: collapse;
+    }
+th {color: black; 
+    font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: large;
+    background-color: #5b93c8;
+    text-align: center;
+    padding: 10px;
+    }
+td {color: black; 
+    font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: medium;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    }
